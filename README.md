@@ -51,26 +51,17 @@ I always make sure that I find enough time for open source contribution that als
     <a href="">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/azurefunctions/azurefunctions-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>  
-   <a href="http://portal.azure.com/">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  <a>
+    <a href="https://kafka.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="openshift" style="vertical-align:top; margin:4px">
-  </a>
-    <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-  
-  </a>
-    <a href="">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+   </a>
+    <a href="https://www.rabbitmq.com/">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMq" style="vertical-align:top; margin:4px">
   </a>
   </a>
-    <a href="">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+    <a href="https://cassandra.apache.org/_/index.html">
+    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg" alt="cassandra" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://www.github.com">
@@ -79,9 +70,20 @@ I always make sure that I find enough time for open source contribution that als
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
+   <a href="">
+    <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-ar21.svg" alt="dynatrace" style="vertical-align:top; margin:4px;">
+  </a>  
+   <a href="">
+    <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg" alt="newrelic" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="Splunk" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 <br/>
 
 <p align="center">
+
   <a href="#" alt="atulsirsode's github stats"><img src="https://github-readme-stats.vercel.app/api?username=atul-sirsode" /></a>
+
 </p>
